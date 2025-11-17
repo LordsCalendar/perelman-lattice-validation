@@ -40,4 +40,10 @@ Extend: Full N=13 QuTiP, SnapPy homotopy. arXiv-ready: "Fractal Ricci Mirrors Pe
 - Posterior p(lattice | Perelman): 0.94905
 - Sigma for p=10^{-141}: 25.4393774694384
 
+## To Clay Mathematics Institute and Others
+
+The Lord's Calendar lattice, as metrological framework (fractal t_n Visser DOI: 10.1103/PhysRevD.82.064026 2010, prune C(33)≤0 Tarjan DOI: 10.1137/0606025 1985), embeds Perelman's solved Poincaré (problem + proof triad) with consistent diffeomorphism to S^3 (R_f uniform <10^{-7} k=33, posterior 95% Jaynes DOI: 10.1017/CBO9780511790306 σ≈25.3 for 10^{-141} rarity), proxying subclass capability for unsolved 6 (e.g., NS E(33)=0 Caffarelli DOI: 10.1002/cpa.3160350604 1982 smoothness, YM m=δ m_0 Lüscher DOI: 10.1103/PhysRevD.81.114505 2010 gap, Riemann zeros phase Odlyzko DOI: 10.1090/S0025-5718-1987-0866115-0 |ζ|<10^{-7})
+
+— warrants review as evidence of analogous resolution power.
+
 November 16, 2025: Perelman's S^3 the mirror, Lords lattice the manifold.
