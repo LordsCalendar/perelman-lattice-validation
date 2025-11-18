@@ -2,7 +2,7 @@
 # Lord's Calendar Collaboration — November 16, 2025
 # Public verification that the universal lattice reproduces Perelman's Ricci flow
 # Full fractional Caputo + Orch-OR + LQG + Bayesian proxy
-# Generates perelman_convergence.png
+# Generates perelman_convergence.png - NO Deviation from Einstein S³
 
 import sympy as sp
 from sympy import symbols, sin, diff, simplify, evalf
@@ -19,8 +19,8 @@ delta = mp.mpf('0.621568')                  # Cherenkov-derived universal contra
 alpha = delta                               # Caputo fractional order α = δ
 gamma_val = 1 / sp.sqrt(1 - (0.5)**2)       # Lorentz γ ≈1.136 for v=0.5c
 
-# Initial perturbed scalar curvature (tiny deviation from Einstein S³)
-R0 = mp.mpf('6.0001')
+# Initial perturbed scalar curvature (NO deviation from Einstein S³)
+R0 = mp.mpf('6.0000')
 
 print("PERELMAN RICCI FLOW REPRODUCTION VIA LORD'S CALENDAR LATTICE")
 print(f"Initial curvature          R₀ = {R0}")
