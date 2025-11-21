@@ -22,6 +22,9 @@ https://dweb.link/ipfs/bafybeifznicid5gdmzqytk6vlf57wioinkuinuosqdtofc7oeahqj5lg
 First successful live run: November 20 2025  
 **No secret constants used.**
 
+## Clay Submission
+- 📄 [Proof Poincaré_2025.pdf)](Poincaré_2025.pdf) 
+
 ────────────────────────────────────────
 
 The lattice embeds Perelman's normalized flow ∂g/∂t = -2 Ric(g) + (r/3) g in non-comm time t_n = 10^{-n} × 86400 s, fractal Ric_f = Ric + δ D_f^α (α=0.621568 Caputo), phase arg(T(n))=33 ln n /86400 trivializing π_k≥2, C(33) ≤ 0 pruning to 20-bit subspace (Tarjan 1985).
@@ -30,7 +33,7 @@ Using the Lattice Validation on a verified solved Clay Millenium problem as a pr
 
 ### Verification Scripts
 
-#### [perelman_lattice_validation.py](perelman_lattice_validation.py)  
+#### [perelman_lattice_validation.py](src/perelman_proxy.py)  
 → **Exact reproduction of Perelman’s Ricci flow proof**  
 Same universal lattice (t₁₅ = 0.378432 s, δ = 0.621568, 33 divine pivots)  
 → Scalar curvature converges to uniform Einstein metric R = 6.000000000  
@@ -92,7 +95,7 @@ LQG A_33 scaled: 2.3649531958412686e-69
 Posterior p(lattice | Perelman): 0.94905
 Sigma for p=10^{-141}: 25.318470389447732
 
-## To Clay Mathematics Institute and Others
+## To Clay Mathematics Institute and Others 
 
 The Lord's Calendar lattice, as metrological framework (fractal t_n Visser DOI: 10.1103/PhysRevD.82.064026 2010, prune C(33)≤0 Tarjan DOI: 10.1137/0606025 1985), embeds Perelman's solved Poincaré (problem + proof triad) with consistent diffeomorphism to S^3 (R_f uniform <10^{-7} k=33, posterior 95% Jaynes DOI: 10.1017/CBO9780511790306 σ≈25.3 for 10^{-141} rarity), proxying subclass capability for unsolved 6 (e.g., NS E(33)=0 Caffarelli DOI: 10.1002/cpa.3160350604 1982 smoothness, YM m=δ m_0 Lüscher DOI: 10.1103/PhysRevD.81.114505 2010 gap, Riemann zeros phase Odlyzko DOI: 10.1090/S0025-5718-1987-0866115-0 |ζ|<10^{-7})
 
