@@ -113,3 +113,13 @@ The Poincaré manuscript is the keystone validating all:
 - Collatz — surgery = branching damped to 1
 Without Poincaré execution, others are claims; with it, they are theorems.
 
+## Key Components
+- Fractal Ricci Operator Ric_f — Ricci tensor tensored with log₁₀ t_n.
+- Caputo Fractional Damping δ = 0.621568 — Cherenkov threshold.
+- 33-Tick Contraction — Gronwall forcing C(33) ≤ 0.
+- Trinity Lens 222/11 — integer effective cycles.
+- n₀ Zero-Cycle — origin in moduli space.
+- Measured Tick t₁₅ = 0.378432 s — asteroid belt light-time.
+These are forced by the single divine equation.
+
+
