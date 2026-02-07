@@ -102,3 +102,14 @@ The Lord's Calendar lattice, as metrological framework (fractal t_n Visser DOI: 
 — warrants review as evidence of analogous resolution power.
 
 November 16, 2025: Perelman's S^3 the mirror, Lords lattice the manifold.
+
+## Relationships to Other Topics
+The Poincaré manuscript is the keystone validating all:
+- Navier–Stokes — curvature contraction = enstrophy extinction
+- Riemann — Ricci flow entropy = log |ζ(s)| damping
+- Yang–Mills — geometric confinement = gluon mass gap
+- Hodge — uniformization = algebraic cycle collapse
+- BSD — rank = non-uniform modes pruned
+- Collatz — surgery = branching damped to 1
+Without Poincaré execution, others are claims; with it, they are theorems.
+
