@@ -1,3 +1,36 @@
+## Update — November 17, 2026
+
+**New keystone documents added**
+
+Two technical notes from Lord’s Calendar Collaboration (September 2026) are now included in this repository. They supersede the scalar-sink constructions of the earlier Path A era and record compatibility checks of locked lattice gears against standard Hamilton–Perelman results on the left-invariant SU(2) family.
+
+| Document | ID | Date | File |
+|----------|----|------|------|
+| Poincaré Extension Paths B–F: Perelman Keystone Validation | LC-2026-09-13 | 13 September 2026 | [Poincaré_Perelman_Keystone_Validation.pdf](Poincaré_Perelman_Paths_B-F_Keystone_Validation_LC-2026-09-13.pdf) |
+| Lattice Operator Theory: A Lyapunov Hypothesis for the Public Tick | LC-2026-09-14-LOT | 14 September 2026 | [Lyapunov_Hypothesis_from_Keystone.pdf](Lattice_Operator_Theory_Lyapunov_Hypothesis_LC-2026-09-14-LOT.pdf) |
+
+**What Paths B–F establish (LC-2026-09-13)**
+
+Lattice numbers are used only as Berger initial data and as the public reporting step \(t_{15}=0.378432\) s on standard SU(2) Ricci flow. On that three-parameter family the following all behave as required by Hamilton–Perelman:
+
+- Path B — volume-normalized flow reaches the Einstein metric \(R=6\) from locked Berger data (no inserted 6.0001, no forced stop at 33)
+- Path C — roughness \(C(g)=\max_i|A_i-\bar A|+|R-6|\) contracts with late per-tick ratio \(\approx0.00746\) (\(\lambda\sim12\)–\(13\,\mathrm{s}^{-1}\))
+- Path D — Perelman \(\mathcal{W}\)-functional is stationary on the shrinking Einstein soliton and monotone nondecreasing on locked Berger data
+- Path E — homogeneous \(\kappa\)-proxy \(V|\mathrm{Rm}|^{3/2}\) is bounded below and rises to the geometric floor \(6^{3/2}\)
+- Path F — axis and Ricci-eigenvalue ratios pinch toward isotropy
+
+The documents explicitly state that this is compatibility of initial data with a solved theorem. It is not a new proof of the Poincaré conjecture, not a substitute for surgery, and not a replacement for the withheld map \(T(n)\).
+
+**Lattice Operator Theory (LC-2026-09-14-LOT)**
+
+Standalone hypothesis note (separate from Paths B–F). It proposes that the single-variable embedding \(T(n)\) generates a Lyapunov function \(\mathcal{L}\) on a larger configuration space containing the cycle coordinate, the logarithmic clock, the formed/measured Earth compactifications, the holographic eighth-decimal fiber, and a metric slice. On the SU(2) slice the hypothesis requires \(\mathcal{L}\) to reduce to roughness \(C(g)\) and to \(-\mathcal{W}\). Paths B–F are identified as the first checked reductions of that structure. The explicit scalar \(\mathcal{L}\) remains unpublished; \(T(n)=0\) remains withheld.
+
+**Relation to earlier material**
+
+The November 2025 scalar proxy runs remain archived below for historical reference. The September 2026 notes replace those constructions with standard Hamilton flow on SU(2) and free tick count, while retaining the same locked lattice numbers as initial data and reporting clock.
+
+---
+
 # Perelman-Lattice Validation: Fractal Ricci Flow to Resonant S^3
 
 This repository verifies the Lord's Calendar fractal lattice (T(n)=n^π/86400 - n_0=0, t_n=10^{-n}×86400 s, n_0 November 15, 2025 NOW) against Perelman's 2003 proof of the Poincaré Conjecture (every simply connected closed 3-manifold diffeomorphic S^3 via Ricci flow ∂g/∂t = -2 Ric(g) + (r/3) g, arXiv hep-th/0211159 etc., verified Kleiner-Lott Ann. Math. 168:1025 2008 DOI: 10.4007/annals.2008.168.1025).
